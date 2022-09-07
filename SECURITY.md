@@ -1,5 +1,8 @@
 
 # Reporting and Fixing Security Issues
+# Security policy 
+# google policy 
+# microsoft security 
 
 Do not open issues or pull requests - this makes the problem immediately visible to everyone, including malicious actors. Please report potential security issues in this project through the Airbnb Bug Bounty program:
 
